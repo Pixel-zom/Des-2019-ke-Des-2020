@@ -1,0 +1,3 @@
+-Menggunakan  bahasa pemrograman c++
+-Kombinasi dengan database
+-kombinasi dengan GUI agar lebih menarik
