@@ -1,3 +1,4 @@
 -Menggunakan  bahasa pemrograman c++
 -Kombinasi dengan database
 -kombinasi dengan GUI agar lebih menarik
+-Membuat aplikasi sederhana tentang rata rata nilai
